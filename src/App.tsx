@@ -14,3 +14,5 @@ export function App() {
 // npm i tailwind-merge
 // npm i @faker-js/faker
 // npm i date-fns --save ou npm install dayjs (mais leve)
+
+//api local: https://github.com/rocketseat-education/nlw-unite-nodejs

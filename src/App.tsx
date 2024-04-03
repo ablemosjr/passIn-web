@@ -9,3 +9,8 @@ export function App() {
     </div>
   );
 }
+
+// npm i lucide
+// npm i tailwind-merge
+// npm i @faker-js/faker
+// npm i date-fns --save ou npm install dayjs (mais leve)
